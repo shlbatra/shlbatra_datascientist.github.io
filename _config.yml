@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mateus Leao"
 description              : "Welcome to my studies on Data Science"
-url                      : msl.github.io
+url                      : "msl.github.io"
 baseurl                  : 
-repository               : msl-ds/msl.github.io
+repository               : "msl-ds/msl.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
