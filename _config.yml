@@ -26,12 +26,13 @@ baseurl                  :
 repository               : msl-ds/msl.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #TOP HEADER LINKS
-navbar-links:
-  About Me: "aboutme"
-  Projects:
-    - tinyrefl: "https://github.com/Manu343726/tinyrefl"
-    - siplasplas: "https://manu343726.github.io/siplasplas/"
-    - ctti: "https://github.com/Manu343726/ctti"
+#navbar-links:
+#  About Me: "aboutme"
+#  Projects:
+#    - tinyrefl: "https://github.com/Manu343726/tinyrefl"
+#    - siplasplas: "https://manu343726.github.io/siplasplas/"
+#    - ctti: "https://github.com/Manu343726/ctti"
+#from https://github.com/Manu343726/Manu343726.github.io/blob/master/_config.yml
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
