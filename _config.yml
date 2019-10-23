@@ -25,6 +25,7 @@ url                      : msl.github.io
 baseurl                  : 
 repository               : msl-ds/msl.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+  - jekyll-jupyter-notebook
 #TOP HEADER LINKS
 #navbar-links:
 #  About Me: "aboutme"
@@ -239,6 +240,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-jupyter-notebook
 
 # mimic GitHub Pages with --safe
 whitelist:
