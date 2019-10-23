@@ -292,9 +292,7 @@ defaults:
       header:
         overlay_image: /assets/images/banner.jpg
         caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-        actions:
-          - label: "More Info"
-          url: "https://unsplash.com"
+        overlay_filter: 0.5
       layout: single
       author_profile: true
       read_time: true
