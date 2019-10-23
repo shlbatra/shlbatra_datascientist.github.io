@@ -286,6 +286,7 @@ defaults:
       path: ""
       #type: "posts"
     values:
+      classes: wide
       sidebar:
         nav: "docs"
       excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
