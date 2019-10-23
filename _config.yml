@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : Mateus Silva Leao
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/pic.png"
   bio              : "I am an **amazing** person."
   location         : "Brazilian in Mexico City"
   email            : mateusleao81@gmail.com
