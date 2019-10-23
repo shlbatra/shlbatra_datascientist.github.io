@@ -9,10 +9,7 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
----
-header:
-  image: http://www.ipvisioninc.com/wp-content/uploads/banner_tech-driven-results_secondary.jpg
---- 
+
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -28,10 +25,6 @@ url                      : msl.github.io
 baseurl                  : 
 repository               : msl-ds/msl.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-
-header:
-  image: http://www.ipvisioninc.com/wp-content/uploads/banner_tech-driven-results_secondary.jpg
-header                   : http://www.ipvisioninc.com/wp-content/uploads/banner_tech-driven-results_secondary.jpg
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -288,11 +281,13 @@ compress_html:
 
 # Defaults
 defaults:
+  
   # _posts
   - scope:
       path: ""
-      type: posts
     values:
+      header:
+        image: http://www.ipvisioninc.com/wp-content/uploads/banner_tech-driven-results_secondary.jpg
       layout: single
       author_profile: true
       read_time: true
