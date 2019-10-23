@@ -285,6 +285,7 @@ defaults:
   # _posts
   - scope:
       path: ""
+      #type: "posts"
     values:
       header:
         image: http://www.ipvisioninc.com/wp-content/uploads/banner_tech-driven-results_secondary.jpg
