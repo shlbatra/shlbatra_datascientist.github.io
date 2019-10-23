@@ -25,10 +25,10 @@ url                      : "msl.github.io"
 baseurl                  : 
 repository               : "msl-ds/msl.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-#logo                     : "https://raw.githubusercontent.com/msl-ds/msl-ds.github.io/master/assets/images/banner.jpg"
+logo                     : "/assets/images/banner.jpg"
 excerpt: "This post should [...]"
 header:
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: "/assets/images/banner.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
