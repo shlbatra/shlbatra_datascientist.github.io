@@ -25,7 +25,9 @@ url                      : "msl.github.io"
 baseurl                  : 
 repository               : "msl-ds/msl.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-header                   : /assets/images/banner.jpg
+
+header:
+  image: http://www.ipvisioninc.com/wp-content/uploads/banner_tech-driven-results_secondary.jpg
 
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
