@@ -287,8 +287,13 @@ defaults:
       path: ""
       #type: "posts"
     values:
+      excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
       header:
-        image: http://www.ipvisioninc.com/wp-content/uploads/banner_tech-driven-results_secondary.jpg
+        overlay_image: /assets/images/unsplash-image-1.jpg
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+        actions:
+          - label: "More Info"
+          url: "https://unsplash.com"
       layout: single
       author_profile: true
       read_time: true
