@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mateus Leao"
 description              : "Welcome to my studies on Data Science"
-url                      : msl.github.io
+url                      : "https://shlbatra_datascientist.github.io"
 baseurl                  : 
-repository               : msl-ds/msl.github.io
+repository               : "shlbatra/shlbatra_datascientist.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 gems:  
   - jekyll-jupyter-notebook
